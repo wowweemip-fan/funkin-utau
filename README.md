@@ -63,3 +63,11 @@ With the same guide of before you can also do with male voices like Whitty
 
 Skid and Pump have the same voice provideer but different between South and Spookeez
 >so i put Spookez as Skid and South as Pump
+
+...
+
+..
+
+.
+
+Oh you read all of this?? Nice! Go ahead and download from the Source Code
