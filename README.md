@@ -2,19 +2,24 @@
 *"Ready? Set? Sing!"
 A repository with the famous game Friday Night Funkin's characters voices, for UTAU!
 -------------------
-You must credit GenoX and KawaiSprite when using!!
-Also if you're using a FANMADE UTAU, credit the original autors of them!
+You must credit GenoX and KawaiSprite when using!!, Also if you're using a FANMADE UTAU, credit the original autors of them!
 
 Voices separated in .wav's by: GenoX https://www.youtube.com/c/GenoXLOID
+
 Whitty UTAU by: AjtheYandere https://www.youtube.com/c/AjtheYandere
-You can also use some midi editor for the voices, but i'm not teaching you how to do that lol
-My Discord: GenoX#2279
+
+You can also use some midi editor for the voices, but i'm not teaching you how to do that lol, if you have any problems go to the Issues tab or talk to me in Discord: GenoX#2279
 
 Original Creators of the FANMADE UTAUs
+-------------------
 -Carol-bbpanzu-
+
 -Whitty-Sock.clip-
+
 -ExGF-xylobeta-
+
 -Hex-YingYang48-
+
 send a lot of love to these creators!
 
 HOW TO LOAD THE VOICEBANKS ON UTAU:
