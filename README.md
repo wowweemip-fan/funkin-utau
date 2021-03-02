@@ -25,11 +25,17 @@ send a lot of love to these creators!
 HOW TO LOAD THE VOICEBANKS ON UTAU:
 -------------------------------
 1-Load an UST or make a new Project file
+
 2-Go to Project tab, then press Project Property
+
 3-Click the 3 dots at the right of the path that appears on a text box
+
 4-Go to the directory of the voice you want to use
+
 5-Select any .wav inside the folder
+
 6-It should be loaded! press OK for close the Window
+
 Now you already have the Voicebank loaded!!
 
 IMPORTANT NOTES:
