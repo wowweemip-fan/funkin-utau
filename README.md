@@ -29,20 +29,26 @@ Now you already have the Voicebank loaded!!
 
 IMPORTANT NOTES:
 ---------------------
->Maybe you're asking "My UST/Song sounds muted on some notes!!"
-  -Remember that you need to have a Romaji CV UST, if you already have one, try change the notes to any of the .wav's (a, e, i, o, u). Sometimes UTAU can't load the oto.ini correctly.
+Maybe you're asking "My UST/Song sounds muted on some notes!!"
 
->Some VoiceBanks like Pico and Monster needs to be lowed 2 octaves so they can sound normal, for do that follow this guide:
+>Remember that you need to have a Romaji CV UST, if you already have one, try change the notes to any of the .wav's (a, e, i, o, u). Sometimes UTAU can't load the oto.ini correctly.
 
-  -Go to the "Edit" menu (In UTAU, ofc)
-  -Select "Move Region by Property"
- (The next you need to know about the piano roll, but you can put the number without knowing that. Expect getting it wrong) 
-  -If the notes of your midi/UST project are between C3 and C4, put -24 on the box, but if the notes are between C2 and C3, put -12
-  -Press OK
- The notes are now octaves lower! press play for see if Pico and Monster now sounds good!
+Some VoiceBanks like Pico and Monster needs to be lowed 2 octaves so they can sound normal, for do that follow this guide:
 
->With the same guide of before you can also do with male voices like Whitty
-  -Whitty uses 1 octave lower, so move -12
+>1 Go to the "Edit" menu (In UTAU, ofc)
 
->Skid and Pump have the same voice provideer but different between South and Spookeez
-  -so i put Spookez as Skid and South as Pump
+>2 Select "Move Region by Property"
+
+>3 The next you need to know about the piano roll, but you can put the number without knowing that. Expect getting it wrong) 
+
+>4 If the notes of your midi/UST project are between C3 and C4, put -24 on the box, but if the notes are between C2 and C3, put -12
+
+>5 Press OK
+
+>The notes are now octaves lower! press play for see if Pico and Monster now sounds good!
+
+With the same guide of before you can also do with male voices like Whitty
+>Whitty uses 1 octave lower, so move -12
+
+Skid and Pump have the same voice provideer but different between South and Spookeez
+>so i put Spookez as Skid and South as Pump
