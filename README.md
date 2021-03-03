@@ -8,7 +8,7 @@ Voices separated in .wav's by: GenoX https://www.youtube.com/c/GenoXLOID
 
 Whitty UTAU by: AjtheYandere https://www.youtube.com/c/AjtheYandere
 
-You can also use some midi editor for the voices, but i'm not teaching you how to do that lol, if you have any problems go to the Issues tab or talk to me in Discord: GenoX#2279
+You can also use some midi editor for the voices, but i'm not teaching you how to do that lol, if you have any problems go to the Wiki tab, Issues tab or talk to me in Discord: GenoX#2279
 
 Original Creators of the FANMADE UTAUs
 -------------------
@@ -22,27 +22,8 @@ Original Creators of the FANMADE UTAUs
 
 send a lot of love to these creators!
 
-HOW TO LOAD THE VOICEBANKS ON UTAU:
--------------------------------
-1-Load an UST or make a new Project file
-
-2-Go to Project tab, then press Project Property
-
-3-Click the 3 dots at the right of the path that appears on a text box
-
-4-Go to the directory of the voice you want to use
-
-5-Select any .wav inside the folder
-
-6-It should be loaded! press OK for close the Window
-
-Now you already have the Voicebank loaded!!
-
 IMPORTANT NOTES:
 ---------------------
-Maybe you're asking "My UST/Song sounds muted on some notes!!"
-
->Remember that you need to have a Romaji CV UST, if you already have one, try change the notes to any of the .wav's (a, e, i, o, u). Sometimes UTAU can't load the oto.ini correctly.
 
 Some VoiceBanks like Pico and Monster needs to be lowed 2 octaves so they can sound normal, for do that follow this guide:
 
