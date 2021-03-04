@@ -22,6 +22,8 @@ Original Creators of the FANMADE UTAUs
 
 -Hex-YingYang48-
 
+-Annie-atsuover-
+
 send a lot of love to these creators!
 
 IMPORTANT NOTES:
