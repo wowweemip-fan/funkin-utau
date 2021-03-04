@@ -33,7 +33,7 @@ Some VoiceBanks like Pico and Monster needs to be lowed 2 octaves so they can so
 
 >1 Go to the "Edit" menu (In UTAU, ofc)
 
->2 Select "Move Region by Property"
+>2 Select "Move Region by Number"
 
 >3 The next you need to know about the piano roll, but you can put the number without knowing that. Expect getting it wrong) 
 
